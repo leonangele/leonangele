@@ -23,7 +23,7 @@ I wanted to actually work with the data coming off a commercial drone-detection 
 
 ### AeroNode — Aviation Telemetry for iOS *(private)*
 
-A tool for field navigation research: an iPhone that captures synchronized video and sensor data, turning it into a precision reference instrument.
+A tool for field navigation research and testing guided matching algorithms: an iPhone that captures synchronized video and sensor data, turning it into a precision reference instrument.
 
 **What it does:**
 - Locks a stable GNSS reference coordinate after a 60-second accuracy warm-up ("Golden Fix")

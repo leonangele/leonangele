@@ -28,7 +28,7 @@ A tool for field navigation research and testing guided matching algorithms: an 
 **What it does:**
 - Locks a stable GNSS reference coordinate after a 60-second accuracy warm-up ("Golden Fix")
 - Timestamps every video frame in UTC and links it to attitude and position data
-- Fuses GPS, barometer, and IMU data into a live aviation HUD (pitch, roll, magnetic heading)
+- Fuses GPS and IMU data into a live aviation HUD (pitch, roll, magnetic heading)
 - Designed to be used cooperatively: two users with AeroNode can derive bearing to each other from their GNSS positions
 
 `Swift` `iOS` `GNSS` `IMU fusion` `aviation` `navigation`
